@@ -17,7 +17,7 @@ But as a developer, with the current tech (as of 2025-03), I feel that I can ite
 between the AI and my code.
 
 
-## Wilmer
+## [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI)
 ***
 I started Wilmer during the Llama 2 era based on the idea that open-weight models at the time were weak as generalists
 compared to the big proprietary models like ChatGPT; however, individual fine-tunes within scoped domains (like coding
