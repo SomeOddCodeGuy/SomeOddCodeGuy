@@ -1,6 +1,14 @@
 ![SomeOddCodeGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=someoddcodeguy&hide=contribs)
 
 
+## Top Repos
+<a href="https://github.com/someoddcodeguy/wilmerai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someoddcodeguy&repo=wilmerai" />
+</a>
+<a href="https://github.com/SomeOddCodeGuy/OfflineWikipediaTextApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someoddcodeguy&repo=OfflineWikipediaTextApi" />
+</a>
+
 ## About
 ***
 I'm a developer who's been visiting world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
