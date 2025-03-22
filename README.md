@@ -1,3 +1,5 @@
+<!-- Attribution for the github readme stats and the repos below that: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Awesome little widgets -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=someoddcodeguy&hide=contribs" alt="SomeOddCodeGuy's GitHub stats">
 </p>
