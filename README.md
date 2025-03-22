@@ -11,6 +11,9 @@
 
 ## About
 ***
+
+![SomeOddCodeGuy](/SomeOddCodeGuy_Sway.gif)
+
 I'm a developer who's been visiting world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
 LLMs which I mostly use for even more hobby tinkering. 
 
