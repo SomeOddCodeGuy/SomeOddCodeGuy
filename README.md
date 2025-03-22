@@ -1,19 +1,23 @@
-![SomeOddCodeGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=someoddcodeguy&hide=contribs)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=someoddcodeguy&hide=contribs" alt="SomeOddCodeGuy's GitHub stats">
+</p>
 
 ## Top Repos
+<p align="center">
 <a href="https://github.com/someoddcodeguy/wilmerai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someoddcodeguy&repo=wilmerai" />
 </a>
 <a href="https://github.com/SomeOddCodeGuy/OfflineWikipediaTextApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someoddcodeguy&repo=OfflineWikipediaTextApi" />
 </a>
+</p>
 
 ## About
 ***
 
-![SomeOddCodeGuy](/SomeOddCodeGuy_Sway.gif)
-
+<p align="center">
+<img src="https://github.com/SomeOddCodeGuy/SomeOddCodeGuy/blob/main/SomeOddCodeGuy_Sway.gif" alt="SomeOddCodeGuy">
+</p>
 I'm a developer who's been visiting world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
 LLMs which I mostly use for even more hobby tinkering. 
 
@@ -26,6 +30,7 @@ exceptions, however; web searching is a great use of agents, IMO.
 
 But as a developer, with the current tech (as of 2025-03), I feel that I can iterate faster and cleaner sitting in 
 between the AI and my code.
+
 
 
 ## [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI)
@@ -70,3 +75,9 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 ### Some Comments to Help New Users Learn Stuff
 - [Starting Information About Local LLMs and Inference](https://www.reddit.com/r/LocalLLaMA/comments/1b6rqi5/comment/ktdwlbl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1)
 - [How Prompt Templates Work](https://www.reddit.com/r/LocalLLaMA/comments/1gddzat/comment/lu0z4aw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+***
+
+<p align="center">
+<img src="https://github.com/SomeOddCodeGuy/SomeOddCodeGuy/blob/More_Updates/Socg_Cat_Cards.gif" alt="SomeOddCodeGuy">
+</p>
