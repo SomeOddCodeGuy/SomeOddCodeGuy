@@ -18,6 +18,7 @@
 <p align="center">
 <img src="https://github.com/SomeOddCodeGuy/SomeOddCodeGuy/blob/main/SomeOddCodeGuy_Sway.gif" alt="SomeOddCodeGuy">
 </p>
+
 I'm a developer who's been visiting world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
 LLMs which I mostly use for even more hobby tinkering. 
 
