@@ -70,6 +70,8 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 - [Comparison of M2 Max, M2 Ultra and RTX 4090 speeds](https://www.reddit.com/r/LocalLLaMA/comments/1fovw8h/low_context_speed_comparison_macbook_mac_studios/)
 - [Comparison of M2 Ultra and M3 Ultra Speeds](https://www.reddit.com/r/LocalLLaMA/comments/1jaqpiu/mac_speed_comparison_m2_ultra_vs_m3_ultra_using/)
 - [M3 Ultra running Command-A 111b and Llama 3.1 405b](https://www.reddit.com/r/LocalLLaMA/comments/1jcgonz/comment/mi244qd/?context=3)
+- [M3 Ultra Deepseek V3 Run Speeds and Memory Costs](https://www.reddit.com/r/LocalLLaMA/comments/1jke5wg/m3_ultra_mac_studio_512gb_prompt_and_write_speeds/)
+- [M3 Ultra R1-0528 Run Speeds and Memory Costs + MLA difference](https://www.reddit.com/r/LocalLLaMA/comments/1kzn4ix/running_deepseek_r1_0528_q4_k_m_and_mlx_4bit_on_a/)
 
 ### MMLU-Pro Home Runs To Compare Effects Of Quantization
 - [All Category Test Across Multiple Quants of Llama 3 70b from q2 to q8](https://www.reddit.com/r/LocalLLaMA/comments/1ds6da5/mmlupro_all_category_test_results_for_llama_3_70b/)
