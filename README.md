@@ -14,6 +14,25 @@
 </a>
 </p>
 
+## Important Update 2025-07-05: Reddit Account Security Lockout
+
+> On 2025-07-05, I was posting on LocalLlama when I received a warning of suspicious activity on the account,
+> and that the account was locked out pending a password change. This was likely due to the fact that my
+> web browsing box runs a VPN on it; while this never caused an issue before, it appears to have done so now.
+> Unfortunately, the account has remained suspended after the password change. I have reached out to the Reddit
+> Admins via their contact forms, and am hopeful that they'll be able to get this resolved soon.
+>
+> That Reddit account contained 2+ years of benchmarks, tests, and general observations; its' posts often get
+> referenced in other places. While I am confident that the issue will *eventually* be resolved, I am concerned
+> about how long that may take. Looking at posts of people who had similar experiences,
+> some reported it taking as long as several months to hear back. As such, I have pulled down the information
+> from the posts and will be looking for an alternative location to get that information back up and online.
+>
+> Sorry for the trouble, folks! Hopefully the admins will be able to get the issue fixed up quickly!
+>
+> -Socg
+
+
 ## About
 ***
 
@@ -49,14 +68,6 @@ methods can push those models even farther.
 I'm not a python developer by trade; I picked it up to work on Wilmer, and I've been learning it ever since. Some
 of the mess in the codebases here are tech debt due to my fumbling along and learning early on as I started to 
 understand it more. In my day job, I'm a dev manager that mostly works with C# and web tech.
-
-## Update 2025-07-05: Reddit Account Security Lockout
-
-> At the time of this update, the below posts are unavailable pending assistance from the Reddit admins.
->
-> At around midnight on 2025-07-05, I was using reddit when I received a warning of suspicious activity on the account,
-> and that the account was locked out pending a password change. However, the account has remained suspended after the password change.
-> I have reached out via their contact forms, and am hopeful that they'll be able to get this resolved soon.
 
 ## Posts
 ***
