@@ -50,6 +50,13 @@ I'm not a python developer by trade; I picked it up to work on Wilmer, and I've 
 of the mess in the codebases here are tech debt due to my fumbling along and learning early on as I started to 
 understand it more. In my day job, I'm a dev manager that mostly works with C# and web tech.
 
+## Update 2025-07-05: Reddit Account Security Lockout
+
+> At the time of this update, the below posts are unavailable pending assistance from the Reddit admins.
+>
+> At around midnight on 2025-07-05, I was using reddit when I received a warning of suspicious activity on the account,
+> and that the account was locked out pending a password change. However, the account has remained suspended after the password change.
+> I have reached out via their contact forms, and am hopeful that they'll be able to get this resolved soon.
 
 ## Posts
 ***
