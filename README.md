@@ -75,8 +75,12 @@ I'm not a python developer by trade; I picked it up to work on Wilmer, and I've 
 of the mess in the codebases here are tech debt due to my fumbling along and learning early on as I started to 
 understand it more. In my day job, I'm a dev manager that mostly works with C# and web tech.
 
-## Posts (Temporarily Unavailable)
+## Posts
 ***
+
+### IMPORTANT
+> 2025-07-05: Please use the "Github Mirror" link to the right of each post until the Reddit support team is able
+> to restore the reddit account.
 
 ### [My Guide to How I Develop Using LLMs](https://www.reddit.com/r/LocalLLaMA/comments/1cvw3s5/my_personal_guide_for_developing_software_with_ai/) [[Github Mirror](Github_Images/My%20personal%20guide%20for%20developing%20software%20with%20AI%20assistance%20r_LocalLLaMA.png)]
 - Guide is a bit older now, but still applies. I've automated a lot of this in workflows, but when I'm somewhere like
