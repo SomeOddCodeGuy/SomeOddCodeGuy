@@ -78,32 +78,27 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 ## Posts (Temporarily Unavailable)
 ***
 
-### [My Home Setup](https://www.reddit.com/r/LocalLLaMA/comments/1i1kz1c/sharing_my_unorthodox_home_setup_and_how_i_use/)
-- Last updated 2025-01
-- I recently got an M3 Studio that I've added to the mix, allowing me to separate out coding models from general purpose
-  models, and giving Roland its own box.
-
-### [My Guide to How I Develop Using LLMs](https://www.reddit.com/r/LocalLLaMA/comments/1cvw3s5/my_personal_guide_for_developing_software_with_ai/)
+### [My Guide to How I Develop Using LLMs](https://www.reddit.com/r/LocalLLaMA/comments/1cvw3s5/my_personal_guide_for_developing_software_with_ai/) [[Github Mirror](Github_Images/My%20personal%20guide%20for%20developing%20software%20with%20AI%20assistance%20r_LocalLLaMA.png)]
 - Guide is a bit older now, but still applies. I've automated a lot of this in workflows, but when I'm somewhere like
   my work, I'd still make use of these techniques.
 - Many of my Wilmer workflows are in some part inspired by the general workflows I do here
 
 ### Mac Studio Speed Tests
-- [M2 Ultra Mac Studio speed tests from freshly loaded models](https://www.reddit.com/r/LocalLLaMA/comments/1aucug8/here_are_some_real_world_speeds_for_the_mac_m2/)
-- [M2 Ultra Mac Studio speed tests utilizing KoboldCpp's context shifting](https://www.reddit.com/r/LocalLLaMA/comments/1aw08ck/real_world_speeds_on_the_mac_koboldcpp_context/)
-- [Comparison of M2 Max, M2 Ultra and RTX 4090 speeds](https://www.reddit.com/r/LocalLLaMA/comments/1fovw8h/low_context_speed_comparison_macbook_mac_studios/)
-- [Comparison of M2 Ultra and M3 Ultra Speeds](https://www.reddit.com/r/LocalLLaMA/comments/1jaqpiu/mac_speed_comparison_m2_ultra_vs_m3_ultra_using/)
-- [M3 Ultra running Command-A 111b and Llama 3.1 405b](https://www.reddit.com/r/LocalLLaMA/comments/1jcgonz/comment/mi244qd/?context=3)
-- [M3 Ultra Deepseek V3 Run Speeds and Memory Costs](https://www.reddit.com/r/LocalLLaMA/comments/1jke5wg/m3_ultra_mac_studio_512gb_prompt_and_write_speeds/)
-- [M3 Ultra R1-0528 Run Speeds and Memory Costs + MLA difference](https://www.reddit.com/r/LocalLLaMA/comments/1kzn4ix/running_deepseek_r1_0528_q4_k_m_and_mlx_4bit_on_a/)
+- [M2 Ultra Mac Studio speed tests from freshly loaded models](https://www.reddit.com/r/LocalLLaMA/comments/1aucug8/here_are_some_real_world_speeds_for_the_mac_m2/) [[Github Mirror](Github_Images/Here%20Are%20Some%20Real%20World%20Speeds%20For%20the%20Mac%20M2%20Ultra%20In%20Case%20You%20Were%20Curious%20r_LocalLLaMA.png)]
+- [M2 Ultra Mac Studio speed tests utilizing KoboldCpp's context shifting](https://www.reddit.com/r/LocalLLaMA/comments/1aw08ck/real_world_speeds_on_the_mac_koboldcpp_context/) [[Github Mirror](Github_Images/Real%20World%20Speeds%20on%20the%20Mac%20Koboldcpp%20Context%20Shift%20Edition!%20r_LocalLLaMA.png)]
+- [Comparison of M2 Max, M2 Ultra and RTX 4090 speeds](https://www.reddit.com/r/LocalLLaMA/comments/1fovw8h/low_context_speed_comparison_macbook_mac_studios/) [[Github Mirror](Github_Images/Low%20Context%20Speed%20Comparison%20Macbook%20Mac%20Studios%20and%20RTX%204090%20r_LocalLLaMA.png)]
+- [Comparison of M2 Ultra and M3 Ultra Speeds](https://www.reddit.com/r/LocalLLaMA/comments/1jaqpiu/mac_speed_comparison_m2_ultra_vs_m3_ultra_using/) [[Github Mirror](Github_Images/Mac%20Speed%20Comparison%20M2%20Ultra%20vs%20M3%20Ultra%20using%20KoboldCpp%20r_LocalLLaMA.png)]
+- [M3 Ultra running Command-A 111b and Llama 3.1 405b](https://www.reddit.com/r/LocalLLaMA/comments/1jcgonz/comment/mi244qd/?context=3) [[Github Mirror](Github_Images/Has%20anyone%20tried%2070B%20LLMs%20on%20M3%20Ultra%20r_LocalLLaMA.png)]
+- [M3 Ultra Deepseek V3 Run Speeds and Memory Costs](https://www.reddit.com/r/LocalLLaMA/comments/1jke5wg/m3_ultra_mac_studio_512gb_prompt_and_write_speeds/) [[Github Mirror](Github_Images/M3%20Ultra%20Mac%20Studio%20512GB%20prompt%20and%20write%20speeds%20for%20Deepseek%20V3%20671b%20gguf%20q4_K_M%20for%20those%20curious%20r_LocalLLaMA.png)]
+- [M3 Ultra R1-0528 Run Speeds and Memory Costs + MLA difference](https://www.reddit.com/r/LocalLLaMA/comments/1kzn4ix/running_deepseek_r1_0528_q4_k_m_and_mlx_4bit_on_a/) [[Github Mirror](Github_Images/Running%20Deepseek%20R1%200528%20q4_K_M%20and%20mlx%204-bit%20on%20a%20Mac%20Studio%20M3%20r_LocalLLaMA.png)]
 
 ### MMLU-Pro Home Runs To Compare Effects Of Quantization
-- [All Category Test Across Multiple Quants of Llama 3 70b from q2 to q8](https://www.reddit.com/r/LocalLLaMA/comments/1ds6da5/mmlupro_all_category_test_results_for_llama_3_70b/)
-- [Combined Test Results Including More Models Across Multiple Quants](https://www.reddit.com/r/LocalLLaMA/comments/1dx4sa7/mmlupro_combined_results_including_new_results/)
+- [All Category Test Across Multiple Quants of Llama 3 70b from q2 to q8](https://www.reddit.com/r/LocalLLaMA/comments/1ds6da5/mmlupro_all_category_test_results_for_llama_3_70b/) [[Github Mirror](Github_Images/MMLU-Pro%20all%20category%20test%20results%20for%20Llama%203%2070b%20Instruct%20ggufs%20q2_K_XXS%20q2_K%20q4_K_M%20q5_K_M%20q6_K%20and%20q8_0%20r_LocalLLaMA.png)]
+- [Combined Test Results Including More Models Across Multiple Quants](https://www.reddit.com/r/LocalLLaMA/comments/1dx4sa7/mmlupro_combined_results_including_new_results/) [[Github Mirror](Github_Images/MMLU-Pro%20Combined%20Results-%20Including%20New%20Results%20for%20L3%208b%20SPPO%20Hermes%202%20Theta%20L3%208b%20and%20Some%20Golden%20Oldies%20Like%20Dolphin%202.5%20Mixtral%20Nous%20Capybara%2034b%20and%20WizardLM-2-7b%20r_LocalLLaMA.png)]
 
 ### Some Comments to Help New Users Learn Stuff
-- [Starting Information About Local LLMs and Inference](https://www.reddit.com/r/LocalLLaMA/comments/1b6rqi5/comment/ktdwlbl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1)
-- [How Prompt Templates Work](https://www.reddit.com/r/LocalLLaMA/comments/1gddzat/comment/lu0z4aw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [Starting Information About Local LLMs and Inference](https://www.reddit.com/r/LocalLLaMA/comments/1b6rqi5/comment/ktdwlbl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1) [[Github Mirror](Github_Images/LLM%20Breakdown%20for%20newbs%20r_LocalLLaMA.png)]
+- [How Prompt Templates Work](https://www.reddit.com/r/LocalLLaMA/comments/1gddzat/comment/lu0z4aw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [[Github Mirror](Github_Images/I%20just%20don't%20understand%20prompt%20formats.%20r_LocalLLaMA.png)]
 
 ***
 
