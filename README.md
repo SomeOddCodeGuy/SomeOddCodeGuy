@@ -107,5 +107,5 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 ***
 
 <p align="center">
-<img src="https://github.com/SomeOddCodeGuy/SomeOddCodeGuy/blob/More_Updates/Socg_Cat_Cards.gif" alt="SomeOddCodeGuy">
+<img src="https://github.com/SomeOddCodeGuy/SomeOddCodeGuy/blob/main/Socg_Cat_Cards.gif" alt="SomeOddCodeGuy">
 </p>
