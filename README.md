@@ -21,17 +21,16 @@
 <img src="https://github.com/SomeOddCodeGuy/SomeOddCodeGuy/blob/main/SomeOddCodeGuy_Sway.gif" alt="SomeOddCodeGuy">
 </p>
 
-I'm a developer who's been visiting world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
+I'm a developer who's been visiting the world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
 LLMs which I mostly use for even more hobby tinkering. 
 
-I generally do most of my development on a local Git repository on my home network, and then push everything up here at once. 
-I do most of my commits on weekends, and in some rare cases I might do one late at night on weekdays.
+I generally do most of my developmen locally, and then push everything up here at once. I do most of my work on weekends.
 
 I'm quite passionate in regards to the power of workflows with LLMs, and as a developer I generally prefer more manual
 chat-style interfacing with LLMs powered by workflows than I do leaving a task to an automated agent. There are some
 exceptions, however; web searching is a great use of agents, IMO. 
 
-But as a developer, with the current tech (as of 2025-03), I feel that I can iterate faster and cleaner sitting in 
+But as a developer, with the current tech (as of 2025-08), I feel that I can iterate faster and cleaner sitting in 
 between the AI and my code.
 
 
