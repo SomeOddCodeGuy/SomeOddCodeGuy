@@ -14,31 +14,6 @@
 </a>
 </p>
 
-## Important Update 2025-07-05: Reddit Account Security Lockout
-
-> On 2025-07-05, I was posting on LocalLlama when I received a warning of suspicious activity on the account,
-> and that the account was locked out pending a password change. Unfortunately, while the red bar at the top vanished
-> after the password change, the account has remained suspended. I have received no messages or email with further
-> explanation.
->
-> After going down a Google search rabbit hole on the issue, I have learned that it apparently is a really bad idea
-> to use a VPN with Reddit. I confirmed in the Account IP history that my IP changed within a few minutes of me
-> being suspended; likely due to my VPN app finding a new connection. Oops.
->
-> I have reached out to the Reddit Admins via their contact forms, and am hopeful that they'll be able to get this
-> resolved soon.
->
-> That Reddit account contained 2+ years of benchmarks, tests, questions/answers and general observations going back
-> to mid 2023; its' posts often get referenced in other places. While I am confident that the issue will *eventually*
-> be resolved, I am concerned about how long that may take. Looking at posts of people who had similar experiences,
-> some reported it taking as long as several months to hear back. As such, I have pulled down the information
-> from the posts and will be looking for an alternative location to get that information back up and online.
->
-> Sorry for the trouble, folks! Hopefully the admins will be able to get the issue fixed up quickly!
->
-> -Socg
-
-
 ## About
 ***
 
@@ -78,9 +53,32 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 ## Posts
 ***
 
-### IMPORTANT
-> 2025-07-05: Please use the "Github Mirror" link to the right of each post until the Reddit support team is able
+## Important Update 2025-07-05: Reddit Account Security Lockout
+
+> On 2025-07-05, I was posting on LocalLlama when I received a warning of suspicious activity on the account,
+> and that the account was locked out pending a password change. Unfortunately, while the red bar at the top vanished
+> after the password change, the account has remained suspended. I have received no messages or email with further
+> explanation.
+>
+> After going down a Google search rabbit hole on the issue, I have learned that it apparently is a really bad idea
+> to use a VPN with Reddit. I confirmed in the Account IP history that my IP changed within a few minutes of me
+> being suspended; likely due to my VPN app finding a new connection. Oops.
+>
+> I have reached out to the Reddit Admins via their contact forms, and am hopeful that they'll be able to get this
+> resolved soon.
+>
+> That Reddit account contained 2+ years of benchmarks, tests, questions/answers and general observations going back
+> to mid 2023; its' posts often get referenced in other places. While I am confident that the issue will *eventually*
+> be resolved, I am concerned about how long that may take. Looking at posts of people who had similar experiences,
+> some reported it taking as long as several months to hear back. As such, I have pulled down the information
+> from the posts and will be looking for an alternative location to get that information back up and online.
+>
+> Sorry for the trouble, folks! Hopefully the admins will be able to get the issue fixed up quickly!
+> 
+> Please use the "Github Mirror" link to the right of each post until the Reddit support team is able
 > to restore the reddit account.
+>
+> -Socg
 
 ### [My Guide to How I Develop Using LLMs](https://www.reddit.com/r/LocalLLaMA/comments/1cvw3s5/my_personal_guide_for_developing_software_with_ai/) [[Github Mirror](Github_Images/My%20personal%20guide%20for%20developing%20software%20with%20AI%20assistance%20r_LocalLLaMA.png)]
 - Guide is a bit older now, but still applies. I've automated a lot of this in workflows, but when I'm somewhere like
