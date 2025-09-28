@@ -24,7 +24,8 @@
 I'm a developer who's been visiting the world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
 LLMs which I mostly use for even more hobby tinkering. 
 
-I generally do most of my developmen locally, and then push everything up here at once. I do most of my work on weekends.
+I generally do most of my development locally, and I do most of my work on weekends. Usually I'm too tired after work
+to do much in the weekday evenings.
 
 I'm quite passionate in regards to the power of workflows with LLMs, and as a developer I generally prefer more manual
 chat-style interfacing with LLMs powered by workflows than I do leaving a task to an automated agent. There are some
@@ -33,6 +34,17 @@ exceptions, however; web searching is a great use of agents, IMO.
 But as a developer, with the current tech (as of 2025-08), I feel that I can iterate faster and cleaner sitting in 
 between the AI and my code.
 
+
+> UPDATE: 2025-09-27
+> 
+> I'm no longer on Reddit, which was my main platform since 2023 and where the majority of y'all likely found and/or
+> interacted with me. Currently, my tech blog (someoddcodeguy.dev) contains my most important benchmark posts and
+> will contain my future ramblings.
+>
+> Additionally- I've just started using
+> X/Twitter. I started the X account way back in 2023 but I never used it until a week or two ago. Since the local
+> AI scene, which is all I really interact with, doesn't have much of a presence there, I currently have all of 0
+> followers lol. But if you want to see what nonsense I'm up to, you can check one of those 2 spots.
 
 
 ## [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI)
