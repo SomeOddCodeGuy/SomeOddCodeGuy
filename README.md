@@ -1,19 +1,3 @@
-<!-- Attribution for the github readme stats and the repos below that: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Awesome little widgets -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=someoddcodeguy&hide=contribs" alt="SomeOddCodeGuy's GitHub stats">
-</p>
-
-## Top Repos
-<p align="center">
-<a href="https://github.com/someoddcodeguy/wilmerai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someoddcodeguy&repo=wilmerai" />
-</a>
-<a href="https://github.com/SomeOddCodeGuy/OfflineWikipediaTextApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someoddcodeguy&repo=OfflineWikipediaTextApi" />
-</a>
-</p>
-
 ## About
 ***
 
@@ -34,17 +18,13 @@ exceptions, however; web searching is a great use of agents, IMO.
 But as a developer, with the current tech (as of 2025-08), I feel that I can iterate faster and cleaner sitting in 
 between the AI and my code.
 
-
-> UPDATE: 2025-09-27
-> 
-> I'm no longer on Reddit, which was my main platform since 2023 and where the majority of y'all likely found and/or
-> interacted with me. Currently, my tech blog (someoddcodeguy.dev) contains my most important benchmark posts and
-> will contain my future ramblings.
+> Update: 2025-12-07
 >
-> Additionally- I've just started using
-> X/Twitter. I started the X account way back in 2023 but I never used it until a week or two ago. Since the local
-> AI scene, which is all I really interact with, doesn't have much of a presence there, I currently have all of 0
-> followers lol. But if you want to see what nonsense I'm up to, you can check one of those 2 spots.
+> I haven't vanished or quit working on Wilmer; I'm currently in the middle of a job transition, and it's taking
+> a fair bit of my time. I'm still doing Wilmer work in the background, but I don't have a lot of time to do clean
+> testing and ensure a push is good, so I'm holding off pushing anything until I hit the point that I can. I'm using Wilmer
+> daily, so don't take my absence as meaning I gave up on it. Far from it. I've just been spending more time making
+> workflows than updating the code itself.
 
 
 ## [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI)
@@ -64,6 +44,10 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 ## Posts
 ***
 
+### [Breakdown of Understanding Llama.cpp Offloading for MoE Models](https://www.someoddcodeguy.dev/understanding-moe-offloading/)
+- This started as a reddit post and then I decided to make it into an article, since I think it was something a lot of folks
+  were interested in reading.
+
 ### [My Guide to How I Develop Using LLMs](https://www.someoddcodeguy.dev/my-personal-guide-for-developing-software-with-ai-assistance/) [[Github Mirror](Github_Images/My%20personal%20guide%20for%20developing%20software%20with%20AI%20assistance%20r_LocalLLaMA.png)]
 - Guide is a bit older now, but still applies. I've automated a lot of this in workflows, but when I'm somewhere like
   my work, I'd still make use of these techniques.
@@ -75,6 +59,8 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 - [M3 Ultra running Command-A 111b and Llama 3.1 405b](https://www.someoddcodeguy.dev/running-llama-3-1-405b-q6-and-command-a-111b-q8-on-m3-ultra-mac-studio/) [[Github Mirror](Github_Images/Has%20anyone%20tried%2070B%20LLMs%20on%20M3%20Ultra%20r_LocalLLaMA.png)]
 - [M3 Ultra Deepseek V3 Run Speeds and Memory Costs](https://www.someoddcodeguy.dev/m3-ultra-mac-studio-512gb-prompt-and-write-speeds-for-deepseek-v3-0-671b-gguf-q4_k_m-for-those-curious/) [[Github Mirror](Github_Images/M3%20Ultra%20Mac%20Studio%20512GB%20prompt%20and%20write%20speeds%20for%20Deepseek%20V3%20671b%20gguf%20q4_K_M%20for%20those%20curious%20r_LocalLLaMA.png)]
 - [M3 Ultra R1-0528 Run Speeds and Memory Costs + MLA difference](https://www.someoddcodeguy.dev/running-deepseek-r1-0528-q4_k_m-and-mlx-4-bit-on-a-mac-studio-m3/) [[Github Mirror](Github_Images/Running%20Deepseek%20R1%200528%20q4_K_M%20and%20mlx%204-bit%20on%20a%20Mac%20Studio%20M3%20r_LocalLLaMA.png)]
+- [M3 Ultra running Qwen3 235b, GPT-OSS-120b, GLM 4.5, and Deepseek V3.1](https://www.someoddcodeguy.dev/mac-studio-m3-ultra-speeds-for-qwen3-235b-gpt-oss-120b-glm-4-5-and-deepseek-v3-1/)
+- [M3 Ultra comparison of Q8_0 and MXFP4 ggufs for GLM 4.6](https://www.someoddcodeguy.dev/glm-4-6-mxfp4-vs-q8_0-gguf-speeds-on-mac-m3-ultra/)
 
 ## Comparison Speed Tests
 - [Comparison of M2 Max, M2 Ultra and RTX 4090 speeds](https://www.someoddcodeguy.dev/mmlu-pro-combined-results-model-quantization-comparison/) [[Github Mirror](Github_Images/Low%20Context%20Speed%20Comparison%20Macbook%20Mac%20Studios%20and%20RTX%204090%20r_LocalLLaMA.png)]
