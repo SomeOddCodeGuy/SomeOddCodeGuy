@@ -17,7 +17,7 @@ functionality, leaving very little creative expression to the agents.
 Even doing all of that up-front work *(which generally takes a fair bit of time)*, I find that I get more value, and faster iterations, 
 than folks who just vibe code and then give up in the final stretch because the bugs and maintainability are falling apart.
 
-Wilmer is still a huge party of my daily LLM use, though. I use it primarily for chatbot workflows *(decision trees and whatnot
+Wilmer is still a huge part of my daily LLM use, though. I use it primarily for chatbot workflows *(decision trees and whatnot
 to better control the output quality)*, and also for quality gates when running small agent scripts. I've got a lot more plans
 for Wilmer, even as it gets up there in age.
 
