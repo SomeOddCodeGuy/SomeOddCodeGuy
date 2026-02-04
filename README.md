@@ -43,10 +43,10 @@ understand it more. In my day job, I'm a dev manager that mostly works with C# a
 - This started as a reddit post and then I decided to make it into an article, since I think it was something a lot of folks
   were interested in reading.
 
-### [My Guide to How I Develop Using LLMs](https://www.someoddcodeguy.dev/my-personal-guide-for-developing-software-with-ai-assistance/) [[Github Mirror](Github_Images/My%20personal%20guide%20for%20developing%20software%20with%20AI%20assistance%20r_LocalLLaMA.png)]
-- Guide is a bit older now, but still applies. I've automated a lot of this in workflows, but when I'm somewhere like
-  my work, I'd still make use of these techniques.
-- Many of my Wilmer workflows are in some part inspired by the general workflows I do here
+### My Guides for How I Develop Using LLMs
+- [My Updated February 2026 Guide](https://www.someoddcodeguy.dev/my-personal-guide-for-developing-software-with-ai-assistance-2026-edition/)
+
+- [My Original May 2024 Guide](https://www.someoddcodeguy.dev/my-personal-guide-for-developing-software-with-ai-assistance/) [[Github Mirror](Github_Images/My%20personal%20guide%20for%20developing%20software%20with%20AI%20assistance%20r_LocalLLaMA.png)]
 
 ### Mac Studio Speed Tests
 - [M2 Ultra Mac Studio speed tests from freshly loaded models](https://www.someoddcodeguy.dev/here-are-some-real-world-speeds-for-the-mac-m2-ultra-in-case-you-were-curious/) [[Github Mirror](Github_Images/Here%20Are%20Some%20Real%20World%20Speeds%20For%20the%20Mac%20M2%20Ultra%20In%20Case%20You%20Were%20Curious%20r_LocalLLaMA.png)]
