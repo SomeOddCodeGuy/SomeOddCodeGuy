@@ -6,25 +6,20 @@
 </p>
 
 I'm a developer who's been visiting the world of LLMs as a hobby since 2023. My main focus is on locally run, offline,
-LLMs which I mostly use for even more hobby tinkering. 
+LLMs which I mostly use for even more hobby tinkering.
 
-I generally do most of my development locally, and I do most of my work on weekends. Usually I'm too tired after work
-to do much in the weekday evenings.
+I'm quite passionate in regards to the power of workflows with LLMs, and as a developer I generally preferred more manual
+chat-style interfacing with LLMs powered by workflows than I did leaving a task to an automated agent. With that said, Claude
+Code has won me over, and I now find myself using it far more. However- I don't "Vibe Code". I use it as a junior developer, where
+I handle all the architecting, planning and design up front via AI assisted chat workflows and *heavy* use of Deep Research 
+functionality, leaving very little creative expression to the agents.
 
-I'm quite passionate in regards to the power of workflows with LLMs, and as a developer I generally prefer more manual
-chat-style interfacing with LLMs powered by workflows than I do leaving a task to an automated agent. There are some
-exceptions, however; web searching is a great use of agents, IMO. 
+Even doing all of that up-front work *(which generally takes a fair bit of time)*, I find that I get more value, and faster iterations, 
+than folks who just vibe code and then give up in the final stretch because the bugs and maintainability are falling apart.
 
-But as a developer, with the current tech (as of 2025-08), I feel that I can iterate faster and cleaner sitting in 
-between the AI and my code.
-
-> Update: 2025-12-07
->
-> I haven't vanished or quit working on Wilmer; I'm currently in the middle of a job transition, and it's taking
-> a fair bit of my time. I'm still doing Wilmer work in the background, but I don't have a lot of time to do clean
-> testing and ensure a push is good, so I'm holding off pushing anything until I hit the point that I can. I'm using Wilmer
-> daily, so don't take my absence as meaning I gave up on it. Far from it. I've just been spending more time making
-> workflows than updating the code itself.
+Wilmer is still a huge party of my daily LLM use, though. I use it primarily for chatbot workflows *(decision trees and whatnot
+to better control the output quality)*, and also for quality gates when running small agent scripts. I've got a lot more plans
+for Wilmer, even as it gets up there in age.
 
 
 ## [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI)
