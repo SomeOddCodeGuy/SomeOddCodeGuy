@@ -1,3 +1,11 @@
+## DISCLAIMER
+
+I work full time and am not taking on any contract, freelance, or collaborative work. All of the development that I do outside of my full time job is personal tinkering and research, either to be uploaded here as open source or to be kept private for personal use. 
+
+If you are here because someone is using SomeOddCodeGuy to apply for work or collaboration, or because you are already working with someone claiming to be SomeOddCodeGuy, **you are being scammed. There are no exceptions to this**. 
+
+If you were given an excuse as to why this message somehow doesn't apply to your situation, **you are being scammed.** Whoever you are talking to is not me and has nothing to do with me.
+
 ## About
 ***
 
